@@ -1,0 +1,2 @@
+C:\Intern\ClassProjectBlueSkyCitadel1\ClassProjectBlueSkyCitadel1\obj\Debug\ClassProjectBlueSkyCitadel1.csprojAssemblyReference.cache
+C:\Intern\ClassProjectBlueSkyCitadel1\ClassProjectBlueSkyCitadel1\obj\Debug\ClassProjectBlueSkyCitadel1.csproj.CoreCompileInputs.cache
